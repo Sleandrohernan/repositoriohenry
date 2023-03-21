@@ -1,4 +1,0 @@
-{
-    printf ("ingrese nombre");
-    scanf.....   
-}
