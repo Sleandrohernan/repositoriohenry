@@ -1,0 +1,4 @@
+{
+    printf ("ingrese nombre");
+    scanf.....   
+}
